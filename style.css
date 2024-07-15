@@ -1,0 +1,135 @@
+body{
+    background-color: black;
+}
+.head{
+    background-color: white;
+    height: 250px;
+    width: 250px;
+    padding: 30px;
+    position:relative;
+    top: 250px;
+    left: 550px;
+}
+.first-row{
+    display: flex;
+    
+}
+.first-box{
+    background-color: white;
+    height: 50px;
+    width: 50px;
+}
+.second-box{
+    background-color: rgba(216, 112, 195, 0.861);
+    height: 50px;
+    width: 50px;
+}
+.third-box{
+    background-color:white;
+    height: 50px;
+    width: 50px;
+}
+.fourth-box{
+    background-color: rgba(216, 112, 195, 0.861);
+    height: 50px;
+    width: 50px;
+}
+.fifth-box{
+    background-color: white;
+    height: 50px;
+    width: 50px;
+}
+.second-row > *{
+    background-color: rgba(216, 112, 195, 0.861);
+    height: 50px;
+    width: 50px;
+
+}
+.second-row{
+    display: flex;
+}
+.third-row{
+    display: flex;
+}
+.eleventh-box{
+    background-color: rgba(216, 112, 195, 0.861);
+    height: 50px;
+    width: 50px;
+}
+.twelfth-box{
+    background-color: white;
+    height: 50px;
+    width: 50px;
+}
+
+.thirteenth-box{
+    background-color: rgba(216, 112, 195, 0.861);
+    height: 50px;
+    width: 50px;
+}
+.fourteenth-box{
+    background-color: white;
+    height: 50px;
+    width: 50px;
+}
+.fifteenth-box{
+    background-color: rgba(216, 112, 195, 0.861);
+    height: 50px;
+    width: 50px;
+}
+.fourth-row{
+    display: flex;
+}
+.sixteenth-box{
+    background-color: white;
+    height: 50px;
+    width: 50px;
+}
+.seventeenth-box{
+    background-color: rgba(216, 112, 195, 0.861);
+    height: 50px;
+    width: 50px;
+}
+.eighteenth-box{
+    background-color: white;
+    height: 50px;
+    width: 50px;
+}
+.nineteenth-box{
+    background-color: rgba(216, 112, 195, 0.861);
+    height: 50px;
+    width: 50px;
+}
+.twentieth-box{
+    background-color: white;
+    height: 50px;
+    width: 50px;
+}
+.fifth-row{
+    display:flex;
+}
+.twenty-first-box{
+    background-color: white;
+    height: 50px;
+    width: 50px;
+}
+.twenty-second-box{
+    background-color: white;
+    height: 50px;
+    width: 50px;
+}
+.twenty-third-box{
+    background-color: rgba(216, 112, 195, 0.861);
+    height: 50px;
+    width: 50px;
+}
+.twenty-fourth-box{
+    background-color: white;
+    height: 50px;
+    width: 50px;
+}
+.twenty-fifth-box{
+    background-color: white;
+    height: 50px;
+    width: 50px;
+}
